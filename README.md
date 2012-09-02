@@ -10,3 +10,10 @@ Features:
 - Satellite and traffic views
 
 You can download the Android application on [Google Play](https://play.google.com/store/apps/details?id=com.jamesma.purdue.maps).
+
+Developers
+==========
+
+You will need to reference the library project [android-mapviewballoons](https://github.com/jgilfelt/android-mapviewballoons) to run this application on Eclipse.
+
+Please note that the [Google Maps API key](https://developers.google.com/maps/documentation/android/mapkey) located in strings.xml is a debug key, change it accordingly for yours.
