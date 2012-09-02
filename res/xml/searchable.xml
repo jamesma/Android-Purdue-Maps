@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/search_label"
+    android:hint="@string/search_hint"
+    android:searchSuggestAuthority="com.jamesma.purdue.maps.database.LocationsProvider"
+    android:searchSuggestIntentAction="android.intent.action.VIEW"
+    android:searchSuggestSelection=" ?" >
+</searchable>
+
+<!-- android:searchSuggestAuthority - (Required) Provides search suggestions -->
+<!-- android:searchSuggestIntentAction - Defines the action for all suggestions -->
+<!-- android:searchSuggestSelection - The value passed into our query function as the selection param, we don't use this -->

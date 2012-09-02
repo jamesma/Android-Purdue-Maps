@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Purdue Maps</string>
+    <string name="title_activity_main_map">Purdue Maps</string>
+    <string name="maps_api_key">0XhC3NCMaX98slAGwL5997lbVFK5NvkvfQXzdcA</string>
+    <string name="layers">Layers</string>
+    <string name="layer_traffic">Traffic</string>
+    <string name="layer_satellite">Satellite</string>
+    <string name="map_search">Search</string>
+    <string name="search_label">Purdue Maps Search</string>
+    <string name="search_hint">Search locations</string>
+    <string name="current_location">My location</string>
+    
+</resources>
